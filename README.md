@@ -36,7 +36,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kingshukkundu&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAloui&theme=dark&hide_border=false" /> 
 </p>
  <br></br>
 <!--- stats (end) -->
