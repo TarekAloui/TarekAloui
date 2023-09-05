@@ -26,6 +26,8 @@
 
 - 🌱 Currently a Senior at **Harvard**
 
+- 👔 Connect with me on **[Linkedin](https://www.linkedin.com/in/tarek-aloui/)**
+
 - 📫 Say hi: **[taloui@college.harvard.edu](mailto:taloui@college.harvard.edu)**
 
 
