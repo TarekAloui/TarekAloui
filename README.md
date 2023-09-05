@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Kingshuk</h1></summary>
+    <img alt="Logo" src="/resources/Logo.jpg"><summary><h1 style="display: inline-block">Hi 👋🏼, I'm Tarek</h1></summary>
   </ul>
 </div>
 
@@ -22,11 +22,11 @@
 
 <!--Intro start-->
 
-- 🗂️ Check out my [Porfolio](https://kingshuk.me/)
+- 🗂️ Check out my [Porfolio](https://www.derekwitht.com/)
 
-- 🌱 Currently working at **CVS Health**
+- 🌱 Currently a Senior at **Harvard**
 
-- 📫 Say hi: **contact@kingshuk.me**
+- 📫 Say hi: **[Porfolio](mailto:taloui@college.harvard.edu)**
 
 
  <br></br>
