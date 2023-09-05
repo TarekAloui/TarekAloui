@@ -26,7 +26,7 @@
 
 - 🌱 Currently a Senior at **Harvard**
 
-- 📫 Say hi: **[Porfolio](mailto:taloui@college.harvard.edu)**
+- 📫 Say hi: **[taloui@college.harvard.edu](mailto:taloui@college.harvard.edu)**
 
 
  <br></br>
