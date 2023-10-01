@@ -1,8 +1,34 @@
+<style>
+  #circle-container {
+    background-image: url('linkedin_purple_gradient_background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 150px; /* Or whatever dimension you want */
+    height: 150px; /* Or whatever dimension you want */
+    position: relative;
+    border-radius: 50%; /* This makes the container circle-shaped */
+    overflow: hidden; /* This crops the image to fit the circle */
+  }
+
+  #profile-pic {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+</style>
+
 <div id="user-content-toc">
-  <ul align="center">
+  <div align="center">
     <!--<img alt="Logo" src="/resources/Logo.jpg">-->
+    <div id="circle-container">
+      <img id="profile-pic" alt="Profile Pic" src="profile_pfpmaker_blue_gradient_background.png">
+    </div>
+    
     <summary><h1 style="display: inline-block">Hi 👋🏼, I'm Tarek</h1></summary>
-  </ul>
+  </div>
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -57,8 +83,6 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=kingshukkundu&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
