@@ -1,11 +1,8 @@
 <div style="text-align: center; position: relative;">
-  <img style="width: 100%; height: 250px;" alt="Background" src="resources/linkedin_purple_gradient_background.png">
-  <div style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%);">
-    <img alt="Profile Pic" src="resources/profile_pfpmaker_blue_gradient_background.png">
-  </div>
+  <img alt="Profile Pic" src="resources/cover_profile_simple.png">
 </div>
 
-<h1 style="text-align: center; margin-top: 120px">Hi 👋🏼, I'm Tarek</h1>
+<h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1>
 
 
 
