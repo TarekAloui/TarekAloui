@@ -1,4 +1,4 @@
-<div style="text-align: center; position: relative;">
+<div align="center">
   <img alt="Profile Pic" src="resources/cover_profile_simple.png">
   <h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1>
 </div>
