@@ -34,14 +34,6 @@
 
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-    <img  title="🔥 Github Streak" alt="Github Streak" src="https://github-readme-stats.vercel.app/api?username=TarekAloui&theme=dracula&show_icons=false&hide_border=true&count_private=true" />
-</p>
-
-<!--- stats (end) -->
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
