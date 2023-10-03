@@ -55,7 +55,9 @@
 <div align="center">
 
 <!-- Programming Languages -->
-<h3>Programming Languages</h3>
+<div id="user-content-toc">
+  <h3>Programming Languages</h3>
+</div>
 <p>
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -75,7 +77,9 @@
 </p>
 
 <!-- Web Technologies -->
-<h3>Web Technologies</h3>
+<div id="user-content-toc">
+  <h3>Web Technologies</h3>
+</div>
 <p>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
@@ -85,7 +89,9 @@
 </p>
 
 <!-- DevOps & Cloud -->
-<h3>DevOps & Cloud</h3>
+<div id="user-content-toc">
+  <h3>DevOps & Cloud</h3>
+</div>
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
@@ -96,7 +102,9 @@
 </p>
 
 <!-- Data Analysis & Machine Learning -->
-<h3>Data Analysis & Machine Learning</h3>
+<div id="user-content-toc">
+  <h3>Data Analysis & Machine Learning</h3>
+</div>
 <p>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -106,7 +114,9 @@
 </p>
 
 <!-- Database Technologies -->
-<h3>Database Technologies</h3>
+<div id="user-content-toc">
+  <h3>Database Technologies</h3>
+</div>
 <p>
 <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -114,7 +124,9 @@
 </p>
 
 <!-- DevOps/Project Management -->
-<h3>DevOps/Project Management</h3>
+<div id="user-content-toc">
+  <h3>DevOps/Project Management</h3>
+</div>
 <p>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Jira" src="https://img.shields.io/badge/Jira-%230A74DA.svg?style=for-the-badge&logo=jira&logoColor=white">
