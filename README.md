@@ -37,7 +37,8 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-  <img src="https://streak-stats.demolab.com?user=TarekAloui&theme=ocean-gradient&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  ![TarekAloui's Stats](https://github-readme-stats.vercel.app/api?username=TarekAloui&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+  ![TarekAloui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAloui&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 <!--- stats (end) -->
