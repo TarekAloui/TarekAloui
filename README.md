@@ -37,7 +37,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-    <img  title="🔥 Github Streak" alt="Github Streak" src="https://github-readme-stats.vercel.app/api?username=TarekAloui&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+    <img  title="🔥 Github Streak" alt="Github Streak" src="https://github-readme-stats.vercel.app/api?username=TarekAloui&theme=dracula&show_icons=false&hide_border=true&count_private=true" />
 </p>
 
 <!--- stats (end) -->
