@@ -2,7 +2,7 @@
   <img alt="Profile Pic" src="resources/cover_profile_simple.png">
   <div id="user-content-toc">
     <ul align="center">
-      <summary><h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1></summary>
+      <h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1>
     </ul>
   </div>
   
