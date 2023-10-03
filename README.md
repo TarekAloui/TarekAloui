@@ -35,7 +35,7 @@
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=TarekAloui&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TarekAloui&theme=ocean-gradient&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
 <!--- stats (end) -->
 
 <!--horizontal divider(gradiant)-->
