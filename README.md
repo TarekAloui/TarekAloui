@@ -35,11 +35,7 @@
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <img  title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAloui&theme=dark&hide_border=false" /> 
-</p>
- <br></br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=TarekAloui&theme=ocean-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 <!--- stats (end) -->
 
 <!--horizontal divider(gradiant)-->
