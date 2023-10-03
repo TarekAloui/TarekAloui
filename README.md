@@ -1,6 +1,11 @@
 <div align="center">
   <img alt="Profile Pic" src="resources/cover_profile_simple.png">
-  <h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1>
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1></summary>
+    </ul>
+  </div>
+  
 </div>
 
 
@@ -15,8 +20,10 @@
 </div>
 
 <!--h2 without bottom border-->
-<div align="center">
+<div id="user-content-toc">
+  <div align="center">
     <h2 style="display: inline-block">Feel free to take a peak at my work!</h2>
+  </div>
 </div>
 
 <!--Intro start-->
