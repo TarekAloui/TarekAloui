@@ -38,7 +38,6 @@
 <p align="center">
   <!--- stats (start) -->
     <img  title="🔥 Git Streak" alt="Git Streak" src="https://github-readme-stats.vercel.app/api?username=TarekAloui&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img  title="🔥 Most Used Languages in Git" alt="Most Used Languages in Git" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAloui&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 <!--- stats (end) -->
@@ -52,6 +51,11 @@
     <h2 style="display: inline-block">Tech Stack 👨🏻‍💻</h2>
   </div>
 </div>
+
+<p align="center">
+  <!--- stats (start) -->
+   <img  title="🔥 Most Used Languages in Git" alt="Most Used Languages in Git" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAloui&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
 <!--tech stack icons-->
 <div align="center">
