@@ -1,9 +1,9 @@
 <div align="center">
   <img alt="Profile Pic" src="resources/cover_profile_simple.png">
   <div id="user-content-toc">
-    <ul align="center">
-      <h1 style="text-align: center; margin-top: 20px">Hi 👋🏼, I'm Tarek</h1>
-    </ul>
+    <div align="center">
+      <h1 style="text-align: center; margin-top: 20">Hi 👋🏼, I'm Tarek</h1>
+    </div>
   </div>
   
 </div>
